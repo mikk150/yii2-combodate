@@ -1,0 +1,14 @@
+{
+    "name" : "mikk150/yii2-combodate",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "^2.0",
+        "omnilight/yii2-momentjs": "^1.0.1",
+        "bower-asset/combodate": "^1.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "mikk150\\combodate\\": "src/"
+        }
+    }
+}

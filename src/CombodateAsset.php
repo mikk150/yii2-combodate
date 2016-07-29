@@ -12,7 +12,7 @@ class CombodateAsset extends AssetBundle
     public $sourcePath = '@bower/combodate/src';
 
     public $depends = [
-        'omnilight\assets\MomentAsset',
+        'omnilight\assets\MomentLanguageAsset',
         'yii\web\JqueryAsset'
     ];
 
